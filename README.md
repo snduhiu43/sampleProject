@@ -4,39 +4,35 @@ Setup Development Environment
 #Assignment: Setting Up Your Developer Environment
 
 #Objective:
-The objective of this assignment is to familiarize yourself with the tools and configurations necessary to establish an efficient developer environment for software engineering projects. By completing this assignment, you will gain the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
+This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
 
 #Tasks:
 
 1. Select Your Operating System (OS):
-   Choose an operating system that best suits your preferences and project requirements. Options include Windows, macOS, or a Linux distribution like Ubuntu.
+   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
-   Select and install a text editor or IDE suitable for your programming languages and workflow. Popular choices include Visual Studio Code, Sublime Text, Atom, IntelliJ IDEA, or Eclipse.
-
+   Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 3. Set Up Version Control System:
-   Install Git and configure it on your local machine. Create a GitHub, GitLab, or Bitbucket account for hosting your repositories. Initialize a Git repository for your project and make your first commit.
+   Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
 4. Install Necessary Programming Languages and Runtimes:
-   Identify the programming languages required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+  Instal Python from the python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
 5. Install Package Managers:
-   If applicable, install package managers like npm (Node.js), pip (Python), Maven (Java), or RubyGems (Ruby) to manage dependencies efficiently.
+   If applicable, install package managers like pip (Python).
 
-6. Configure Terminal or Command Line Interface (CLI):
-   Customize your terminal or CLI with preferred themes, aliases, and shortcuts to streamline your workflow. Familiarize yourself with basic commands for navigation, file manipulation, and executing programs.
+6. Configure a Database (MySQL):
+   Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
-8. Install Debugging and Profiling Tools:
-   Install debugging tools and profilers compatible with your chosen programming languages and IDEs to facilitate efficient debugging and performance analysis.
-
-9. Explore Extensions and Plugins:
+8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
-10. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process.
+9. Document Your Setup:
+    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
