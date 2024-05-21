@@ -17,7 +17,7 @@ This assignment aims to familiarize you with the tools and configurations necess
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
 4. Install Necessary Programming Languages and Runtimes:
-  Instal Python from the python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
+  Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
