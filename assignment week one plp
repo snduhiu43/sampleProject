@@ -1,0 +1,26 @@
+Assignment: Setting Up Your Developer Environment
+
+1. Select Your Operating System (OS):
+   I'm currently operating on windows 10 pro. 
+
+2. Install a Text Editor or Integrated Development Environment (IDE):
+   I have the Visual Studio Code (VS Code) installed and running on my laptop.
+
+3. Set Up Version Control System:
+I had git downloaded.
+i run this code 
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+i had a github account already. the email i used on git is the one i'm also using for github.
+
+4. i dowloaded and installed python 
+i run the code "python --version" to vverify thge installation.
+
+5. Set up package management for Python.
+ensuring pip is up to date "python -m pip install --upgrade pip"
+
+6. i downloaded MySQL and installed it.
+run "mysql -u root -p" to verify the installation.
+
+7. i created a directory on git and a file. Used .gitignore and pushed this to created repository on github.
